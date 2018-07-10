@@ -6,3 +6,5 @@ Make sure Standard Firmata is loaded onto your Arduino board first.
 Just load the plugin next to the Arduino (on an Audio Track), then map the big button to a Digital pin output. 
 
 Future versions include midi control for making your own patterns, full RGB light control, and more. 
+
+For more info, including a full tutorial on the project visit http://spaghettilab.net/blinker
